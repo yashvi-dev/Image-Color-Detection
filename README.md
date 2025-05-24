@@ -40,7 +40,7 @@ Ideal for learning OpenCV basics, this project also demonstrates color recogniti
 
 > Click on any pixel in the image to detect its RGB color.
 
-![RGB Detection from Image](images/rgb_from_image.png)
+![RGB Detection from Image](rgb_from_image.png)
 
 ---
 
@@ -48,7 +48,7 @@ Ideal for learning OpenCV basics, this project also demonstrates color recogniti
 
 > Hover your mouse over any part of the video to get RGB color in real-time.
 
-![RGB Detection from Webcam](images/rgb_from_webcam.png)
+![RGB Detection from Webcam](rgb_from_webcam.png)
 
 ---
 
